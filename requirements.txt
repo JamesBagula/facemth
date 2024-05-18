@@ -1,0 +1,12 @@
+TensorFlow==2.4.0 
+keras==2.4.3
+mtcnn
+keras-vggface==0.6
+keras_applications==1.0.8
+numpy==1.19.2
+opencv-python
+pillow
+scikit-learn
+streamlit
+
+
